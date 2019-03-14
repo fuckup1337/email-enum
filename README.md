@@ -28,4 +28,17 @@ chmod +x setup.sh
 
 ## Usage
 
-`python3 check.py email@gmail.com`
+`python3 check.py email@gmail.com` or `./check.py email@gmail.com`
+
+## To-Do's
+
+* More Websites
+* Username Enumeration
+* Increased Verbosity
+* More arguments
+
+*and much more...*
+
+## Disclaimer
+
+This program is done entirely by web scraping, if a website changes its element variables or layout, you might need to wait for an updated version of Email-Enum or feel free to contribute.
