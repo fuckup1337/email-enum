@@ -1,6 +1,6 @@
 # Email-Enum
 [![Version](https://img.shields.io/badge/Version-v0.5-brightgreen.svg)](https://shields.io/)
-[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](https://shields.io/)
+[![Status](https://img.shields.io/badge/Status-Initial-brightgreen.svg)](https://shields.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)](https://shields.io/)
 [![Browser](https://img.shields.io/badge/Browser-Firefox-brightgreen.svg)](https://shields.io/)
 [![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
